@@ -1,4 +1,5 @@
-import { useState,useEffect } from "react";
+
+import React, { useState, useEffect } from "react";
 import { AddCategory } from "../components/AddCategory";
 import { getGifs } from "../helpers/getGifs";
 
